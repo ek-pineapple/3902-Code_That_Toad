@@ -24,9 +24,9 @@ Sunday Night: Retrospective + Group code review.
 
 
 ALL
-Ben Lampe - orange
-Ekum Kaur - blue
+Ben Lampe - Orange
+Ekum Kaur - Blue
 Joshua Han - Yellow
 Tina Wang - Purple
-Bladon Siu - Green
+Bladen Siu - Green
 
