@@ -24,6 +24,7 @@ Sunday Night: Retrospective + Group code review.
 
 
 ALL
+
 Ben Lampe - Orange
 
 Ekum Kaur - Blue
