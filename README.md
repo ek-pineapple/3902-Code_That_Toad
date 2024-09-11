@@ -1,4 +1,4 @@
-# 3902_Mario_TeamYellow
+# 3902_Mario_Code_That_Toad
 
 Main Branch: Always Working
 Sprint Main Branch: Always Working
@@ -24,9 +24,14 @@ Sunday Night: Retrospective + Group code review.
 
 
 ALL
+
 Ben Lampe - Orange
+
 Ekum Kaur - Blue
+
 Joshua Han - Yellow
+
 Tina Wang - Purple
+
 Bladen Siu - Green
 
