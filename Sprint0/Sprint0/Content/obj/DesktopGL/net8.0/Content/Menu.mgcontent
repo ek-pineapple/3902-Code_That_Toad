@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/ekumjyotkaur/Documents/Proj 3902/3902-Code_That_Toad/Sprint0/Sprint0/Content/Menu.spritefont</SourceFile>
+  <SourceTime>2024-09-11T13:28:07.2197628-04:00</SourceTime>
+  <DestFile>/Users/ekumjyotkaur/Documents/Proj 3902/3902-Code_That_Toad/Sprint0/Sprint0/Content/bin/DesktopGL/Content/Menu.xnb</DestFile>
+  <DestTime>2024-09-13T00:41:47.8979337-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-08-16T13:05:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-08-16T13:05:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
